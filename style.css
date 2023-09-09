@@ -380,6 +380,9 @@ section .title::after{
 .skills-content .right .mysql::before{
     width: 70%;
 }
+.skills-content .right .python::before{
+    width: 60%;
+}
 
 /* contact section styling */
 .contact .title::after{
